@@ -9,3 +9,4 @@ End-to-end tests for the Toast platform.
 🪿 run-mpa2j70n-9uodsy
 🪿 run-mpfs2wbf-u3nq8o
 🌵 run-mpfs2wbf-sbe6x8
+🌵 run-mpfsun3a-vqs0mv
